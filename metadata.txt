@@ -1,0 +1,8 @@
+[general]
+name=QGIS_first_plugin
+description= plugin_sample
+qgisMinimumVersion=2.6.0
+version=0.0.1
+icon=DaisukeChen_sample.png
+author=DaisukeTakahata
+homepage=http://daisukecheng.wordpress.com/
